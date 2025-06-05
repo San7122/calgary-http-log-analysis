@@ -26,8 +26,12 @@ The goal of this project is to analyze raw HTTP server log data to uncover usage
 ## 📂 Project Structure
 
 📁 Calgary_HTTP_Log_Analysis/
+
 ├── Calgary_HTTP_Log_Analysis_Sanjana.ipynb # Main notebook with all solutions
+
 ├── README.md # Project description
+
+
 ├── Calgary_HTTP_Log_Analysis_Sanjana.pdf 
 
 ---
